@@ -59,3 +59,7 @@ Mermaid Chart - Create complex, visual diagrams with text. A smarter way of crea
 data/*.pdf
 skills-lock.json
 frontend/mock/data/*
+
+# Agent / tooling files (auto-generated, not project source)
+AGENTS.md
+docs/
